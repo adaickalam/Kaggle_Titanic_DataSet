@@ -11,7 +11,3 @@ In this contest, we ask you to complete the analysis of what sorts of people wer
 This Kaggle Getting Started Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning."
 
 From the competition homepage.
-
-
-
-Kaggle Titanic Dataset - Kaggle Score - 0.78468
